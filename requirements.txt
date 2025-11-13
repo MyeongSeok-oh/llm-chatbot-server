@@ -17,6 +17,7 @@ uvicorn>=0.30.0
 tqdm
 pydantic>=2.0.0
 python-dotenv>=1.0.0
+watchdog>=3.0.0
 
 # === Optional: If you use OpenAI models ===
 openai>=1.0.0
